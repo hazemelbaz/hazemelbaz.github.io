@@ -230,7 +230,7 @@ Al-Aqsa University Journal (Natural Sciences Series),Vol.24, No.1, Pages 40-59 J
 ## Licenses & certifications
 - **[SOC Level 1 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LQMJ4XR410.pdf)**<br>
 TryHackMeTryHackMe<br>
-Issued May 2025Issued May 2025<br>
+Issued 14 May 2025<br>
 Credential ID [THM-LQMJ4XR410](/assets/PDF/THM-LQMJ4XR410.pdf)<br>
 
 - **[Cybersecurity senior management and information security governance (ISG)](https://www.infosecinstitute.com/skills/learning-paths/cybersecurity-leadership-and-management/)**<br>
